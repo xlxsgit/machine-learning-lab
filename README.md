@@ -78,9 +78,9 @@ Each notebook contains:
 
 | Task           | Algorithm           | Notebook                                                                               |
 | -------------- |---------------------| -------------------------------------------------------------------------------------- |
-| Classification | Logistic Regression | [`Classification Logistic Regression.ipynb`](./notebooks/Classification Logistic Regression.ipynb) |
-| Regression     | Linear Regression   | [`Regression Linear Regression.ipynb`](./notebooks/Regression Linear Regression.ipynb)                       |
-| Clustering     | K-Means             | [`Clustering K-Means.ipynb`](./notebooks/Clustering K-Means.ipynb)                       |
+| Classification | Logistic Regression | [`Classification Logistic Regression.ipynb`](notebooks/Classification_Logistic_Regression.ipynb) |
+| Regression     | Linear Regression   | [`Regression Linear Regression.ipynb`](notebooks/Regression_Linear_Regression.ipynb)                       |
+| Clustering     | K-Means             | [`Clustering K-Means.ipynb`](notebooks/Clustering_KMeans.ipynb)                       |
 
 ---
 
