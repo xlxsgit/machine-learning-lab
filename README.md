@@ -96,24 +96,22 @@ Each notebook contains:
 * **NLP:** [Transformer models](notebooks/DL/NLP_Transformer.ipynb)
 
 ---
+## Built with:
+
+* [Python](https://www.python.org/)
+* [scikit-learn](https://scikit-learn.org/)
+* [PyTorch](https://pytorch.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [NumPy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+
+---
 
 ## 📝 License
 
 This project is licensed under the [MIT License](./LICENSE).
 You are free to use, modify, and distribute it for educational or research purposes.
-
----
-
-## 🙌 Acknowledgments
-
-Built with:
-
-* [Python](https://www.python.org/)
-* [scikit-learn](https://scikit-learn.org/)
-* [Matplotlib](https://matplotlib.org/)
-* [Seaborn](https://seaborn.pydata.org/)
-* [Pandas](https://pandas.pydata.org/)
-* [NumPy](https://numpy.org/)
 
 ---
 
