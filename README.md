@@ -41,7 +41,7 @@ machine-learning-lab/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/machine-learning-lab.git
+git clone https://github.com/xlxsgit/machine-learning-lab.git
 cd machine-learning-lab
 
 # 2. Create and activate virtual environment (recommended)
