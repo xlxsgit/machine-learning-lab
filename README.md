@@ -77,23 +77,17 @@ Each notebook contains:
 ## 🧠 Algorithms Included
 
 ### 📊 Statistics
-* [ANOVA Analysis (One-Way and Two-Way)](notebooks/Statistics/ANOVA_Analysis.ipynb)
-* [Statistical Hypothesis Testing (Single and Two Normal Population Mean and Variance Tests)](notebooks/Statistics/Statistical_Hypothesis_Testing.ipynb)
+
 
 ### 🤖 Machine Learning
-* **Classification:** [Logistic Regression](notebooks/ML/Classification_Logistic_Regression.ipynb), [SVM](notebooks/ML/Classification_SVM.ipynb)
-* **Regression:** [Linear Regression](notebooks/ML/Regression_Linear_Regression.ipynb)
-* **Clustering:** [K-Means](notebooks/ML/Clustering_KMeans.ipynb)
+
 
 ### 🔄 Ensemble Methods
-* **Classification:** [AdaBoost](notebooks/Ensemble/Classification_AdaBoost.ipynb)
-* **Regression:** [Random Forest](notebooks/Ensemble/Regression_Random_Forest.ipynb), [XGBoost](notebooks/Ensemble/Regression_XGBoost.ipynb)
+
 
 ### 🧠 Deep Learning
-* **Neural Networks:** [MLP (Multi-Layer Perceptron)](notebooks/DL/Regression_MLP.ipynb)
-* **Computer Vision:** [CNN for image classification](notebooks/DL/Classification_CNN.ipynb), [GAN for image generation](notebooks/DL/Classification_GAN.ipynb)
-* **Time Series:** [LSTM for forecasting](notebooks/DL/TS Forecasting_LSTM.ipynb)
-* **NLP:** [Transformer models](notebooks/DL/NLP_Transformer.ipynb)
+- [Image Generation with GANs on CIFAR-10 using PyTorch](notebooks/DL/Generation_GAN.ipynb)
+- [CNN-Based Handwritten Digit Classification with PyTorch on MNIST](notebooks/DL/Generation_GAN.ipynb)
 
 ---
 ## Built with:
