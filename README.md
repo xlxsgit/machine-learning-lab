@@ -24,21 +24,19 @@ Each notebook is designed as a **self-contained learning module** with theoretic
 ## 🏗️ Project Structure
 
 ```plaintext
-│machine-learning-lab/
-│
-├── notebooks/ # Jupyter notebooks organized by domain
-│ ├── DL/               # Deep Learning implementations
-│ │ ├── Generation_GAN.ipynb
-│ │ ├── Classification_CNN.ipynb
-│ │ └── Forecasting_LSTM.ipynb
-│ ├── classical/        # Classical ML algorithms
-│ ├── ensemble/         # Ensemble methods
-│ └── statistics/       # Statistical learning methods
-│
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-└── LICENSE             # MIT License
+machine-learning-lab/
+├── LICENSE
+├── README.md
+├── Whiteboard-coding/
+├── notebooks/
+│   ├── Deep Learning/
+│   │   └── data/
+│   │   │   ├── MNIST/
+│   │   │   └── cifar-10-batches-py/
+│   └── Machine&Statistical  Learning/
+├── requirements.txt
 ```
+
 ---
 ## 📊 Featured Notebooks
 
@@ -48,9 +46,6 @@ Each notebook is designed as a **self-contained learning module** with theoretic
 - [LSTM-Based Time Series Forecasting with PyTorch on Airline Passenger Data](notebooks/DL/Forecasting_LSTM.ipynb)
 
 ### 🤖 Machine&Statistical  Learning
-*(More notebooks continuously being added)*
-
-### 🎯 Special Topics
 *(More notebooks continuously being added)*
 
 ---
