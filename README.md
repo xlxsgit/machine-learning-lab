@@ -88,6 +88,7 @@ Each notebook contains:
 ### 🧠 Deep Learning
 - [Image Generation with GANs on CIFAR-10 using PyTorch](notebooks/DL/Generation_GAN.ipynb)
 - [CNN-Based Handwritten Digit Classification with PyTorch on MNIST](notebooks/DL/Generation_GAN.ipynb)
+- [LSTM-Based Time Series Forecasting with PyTorch on Airline Passenger Data](notebooks/DL/Forecasting_LSTM.ipynb)
 
 ---
 ## Built with:
