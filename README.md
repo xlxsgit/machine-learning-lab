@@ -47,13 +47,7 @@ Each notebook is designed as a **self-contained learning module** with theoretic
 - [CNN-Based Handwritten Digit Classification with PyTorch on MNIST](notebooks/DL/Classification_CNN.ipynb)
 - [LSTM-Based Time Series Forecasting with PyTorch on Airline Passenger Data](notebooks/DL/Forecasting_LSTM.ipynb)
 
-### 📈 Statistics
-*(More notebooks continuously being added)*
-
-### 🤖 Classical ML  
-*(More notebooks continuously being added)*
-
-### 🔄 Ensemble Methods
+### 🤖 Machine&Statistical  Learning
 *(More notebooks continuously being added)*
 
 ### 🎯 Special Topics
