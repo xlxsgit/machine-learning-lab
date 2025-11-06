@@ -25,28 +25,49 @@ Each notebook is designed as a **self-contained learning module** with theoretic
 
 ```plaintext
 machine-learning-lab/
-├── LICENSE
-├── README.md
-├── Whiteboard-coding/
-├── notebooks/
-│   ├── Deep Learning/
-│   │   └── data/
-│   │   │   ├── MNIST/
-│   │   │   └── cifar-10-batches-py/
-│   └── Machine&Statistical  Learning/
-├── requirements.txt
+├─notebooks
+│  ├─1_Statistical_Analysis
+│  │  └─hypothesis_testing
+│  ├─2_Machine_Statistical_Learning
+│  │  ├─linear_models
+│  │  ├─probabilistic_models
+│  │  ├─svm_models
+│  │  ├─tree_models
+│  │  └─unsupervised_models
+│  ├─3_Deep_Learning
+│  │  ├─1_mlp_models
+│  │  ├─2_cnn_models
+│  │  ├─3_rnn_models
+│  │  ├─4_transformer_models
+│  │  └─5_generative_models
+│  └─data
+│      ├─cifar-10-batches-py
+│      └─MNIST
+└─Whiteboard-coding
+└─LICENSE
+└─README.md
+└─requirements.txt
 ```
 
 ---
 ## 📊 Featured Notebooks
 
-### 🧠 Deep Learning
-- [Image Generation with GANs on CIFAR-10 using PyTorch](notebooks/DL/Generation_GAN.ipynb)
-- [CNN-Based Handwritten Digit Classification with PyTorch on MNIST](notebooks/DL/Classification_CNN.ipynb)
-- [LSTM-Based Time Series Forecasting with PyTorch on Airline Passenger Data](notebooks/DL/Forecasting_LSTM.ipynb)
-
-### 🤖 Machine&Statistical  Learning
+### 🤖 1_Statistical_Analysis
 *(More notebooks continuously being added)*
+
+### 🤖 2_Machine_Statistical_Learning
+*(More notebooks continuously being added)*
+
+### 🤖 3_Deep_Learning
+- **cnn models**
+1. [CNN_Classification_on_MNIST](notebooks/3_Deep_Learning/2_cnn_models/CNN_Classification_on_MNIST.ipynb)
+
+- **rnn models**
+1. [LSTM_Forecasting_on_Airline](notebooks/3_Deep_Learning/3_rnn_models/LSTM_Forecasting_on_Airline.ipynb)
+
+- **generative models**
+1. [GAN_Gneration_on_CIFAR10](notebooks/3_Deep_Learning/5_generative_models/GAN_Gneration_on_CIFAR10.ipynb)
+
 
 ---
 
