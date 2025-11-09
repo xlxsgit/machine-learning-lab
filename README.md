@@ -56,7 +56,14 @@ machine-learning-lab/
 *(More notebooks continuously being added)*
 
 ### 🤖 2_Machine_Statistical_Learning
-*(More notebooks continuously being added)*
+- **linear models**
+1. [Logistic_Classification_on_Wine](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_Classification_on_Wine.ipynb)
+
+- **svm models**
+1. [SVM_Classification_on_Iris](notebooks/2_Machine_Statistical_Learning/svm_models/SVM_Classification_on_Iris.ipynb)
+
+- **tree models**
+1. [Random_Forest_Classification_on_Wine](notebooks/2_Machine_Statistical_Learning/tree_models/Random_Forest_Classification_on_Wine.ipynb)
 
 ### 🤖 3_Deep_Learning
 - **cnn models**
