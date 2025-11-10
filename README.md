@@ -81,59 +81,23 @@ A notebook-based machine learning laboratory for solidifying fundamentals, exper
 ---
 ## 📋 About the Project
 
+<img src="https://img.shields.io/badge/For%20Whom%20%20%20-2C3E50?style=flat-square&logo=superuser&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/-Students-FF6B6B?style=flat-square&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/-Researchers-4ECDC4?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/-Enthusiasts-45B7D1?style=flat-square&logo=githubsponsors&logoColor=white" />
+<img src="https://img.shields.io/badge/-Data%20Scientists-96CEB4?style=flat-square&logo=datacamp&logoColor=white" />
+<img src="https://img.shields.io/badge/-ML%20Engineers-F7B267?style=flat-square&logo=pytorch&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Key%20Features%20%20-2C3E50?style=flat-square&logo=starship&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/-Practical-FF6B6B?style=flat-square&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/-Comprehensive-4ECDC4?style=flat-square&logo=stackoverflow&logoColor=white" />
+<img src="https://img.shields.io/badge/-Experimental-45B7D1?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-Notebook%20Centric-96CEB4?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/-Visualization%20Rich-F7B267?style=flat-square&logo=chartdotjs&logoColor=white" />
+
 This laboratory was established to **solidify understanding** of machine learning fundamentals, **experiment fearlessly** with diverse algorithms, and **build a comprehensive portfolio** of reproducible examples. Designed as an interactive learning environment, it serves as both an educational resource and experimental workspace for the ML community.
-
-<table>
-  <tr>
-    <td colspan="5" align="center">
-      <img src="https://img.shields.io/badge/Target_Audience-2C3E50?style=for-the-badge&logo=people&logoColor=white&height=32" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Students-FF6B6B?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Researchers-4ECDC4?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Enthusiasts-45B7D1?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Data_Scientists-96CEB4?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ML_Engineers-F7B267?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td colspan="5" align="center">
-      <img src="https://img.shields.io/badge/Key_Features-2C3E50?style=for-the-badge&logo=star&logoColor=white&height=32" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Practical-FF6B6B?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Comprehensive-4ECDC4?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Experimental-45B7D1?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Notebook_Centric-96CEB4?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Visualization_Rich-F7B267?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
-    </td>
-  </tr>
-</table>
-
-
 
 ---
 
