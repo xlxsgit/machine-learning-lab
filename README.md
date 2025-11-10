@@ -21,60 +21,53 @@ This project provides a professional yet flexible workflow to:
 Each notebook is designed as a **self-contained learning module** with theoretical background, practical implementation, and result validation. Data simulation is used only when necessary to demonstrate specific concepts.
 
 ---
-## 🏗️ Project Structure
-
-```plaintext
-machine-learning-lab/
-├─notebooks
-│  ├─1_Statistical_Analysis
-│  │  └─hypothesis_testing
-│  ├─2_Machine_Statistical_Learning
-│  │  ├─linear_models
-│  │  ├─probabilistic_models
-│  │  ├─svm_models
-│  │  ├─tree_models
-│  │  └─unsupervised_models
-│  ├─3_Deep_Learning
-│  │  ├─1_mlp_models
-│  │  ├─2_cnn_models
-│  │  ├─3_rnn_models
-│  │  ├─4_transformer_models
-│  │  └─5_generative_models
-│  └─data
-│      ├─cifar-10-batches-py
-│      └─MNIST
-└─Whiteboard-coding
-└─LICENSE
-└─README.md
-└─requirements.txt
-```
-
----
 ## 📊 Featured Notebooks
 
-### 🤖 1_Statistical_Analysis
 *(More notebooks continuously being added)*
 
+---
+
+### 📈 1_Statistical_Analysis
+<!-- No notebooks in this section yet -->
+
+---
+
 ### 🤖 2_Machine_Statistical_Learning
-- **linear models**
-1. [Logistic_Classification_on_Wine](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_Classification_on_Wine.ipynb)
 
-- **svm models**
-1. [SVM_Classification_on_Iris](notebooks/2_Machine_Statistical_Learning/svm_models/SVM_Classification_on_Iris.ipynb)
+#### 📉 Linear Models
+| Notebook | Description |
+|----------|-------------|
+| [🍷 Logistic Classification on Wine](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_Classification_on_Wine.ipynb) | Classification using logistic regression on wine dataset |
 
-- **tree models**
-1. [Random_Forest_Classification_on_Wine](notebooks/2_Machine_Statistical_Learning/tree_models/Random_Forest_Classification_on_Wine.ipynb)
+#### 🔍 SVM Models
+| Notebook | Description |
+|----------|-------------|
+| [🌸 SVM Classification on Iris](notebooks/2_Machine_Statistical_Learning/svm_models/SVM_Classification_on_Iris.ipynb) | Support Vector Machine classification on iris dataset |
 
-### 🤖 3_Deep_Learning
-- **cnn models**
-1. [CNN_Classification_on_MNIST](notebooks/3_Deep_Learning/2_cnn_models/CNN_Classification_on_MNIST.ipynb)
+#### 🌲 Tree Models
+| Notebook | Description |
+|----------|-------------|
+| [🌿 Random Forest Classification on Wine](notebooks/2_Machine_Statistical_Learning/tree_models/Random_Forest_Classification_on_Wine.ipynb) | Ensemble classification using Random Forest on wine dataset |
+| [🏗️ XGBoost Regression on California](notebooks/2_Machine_Statistical_Learning/tree_models/XGBoost_Regression_on_California.ipynb) | Gradient boosting regression on California housing dataset |
 
-- **rnn models**
-1. [LSTM_Forecasting_on_Airline](notebooks/3_Deep_Learning/3_rnn_models/LSTM_Forecasting_on_Airline.ipynb)
+---
 
-- **generative models**
-1. [GAN_Gneration_on_CIFAR10](notebooks/3_Deep_Learning/5_generative_models/GAN_Gneration_on_CIFAR10.ipynb)
+### 🧠 3_Deep_Learning
 
+#### 🖼️ CNN Models
+| Notebook | Description |
+|----------|-------------|
+| [🔢 CNN Classification on MNIST](notebooks/3_Deep_Learning/2_cnn_models/CNN_Classification_on_MNIST.ipynb) | Convolutional Neural Network for digit classification |
+
+#### 🔄 RNN Models
+| Notebook | Description |
+|----------|-------------|
+| [✈️ LSTM Forecasting on Airline](notebooks/3_Deep_Learning/3_rnn_models/LSTM_Forecasting_on_Airline.ipynb) | Long Short-Term Memory for time series forecasting |
+
+#### 🎨 Generative Models
+| Notebook | Description |
+|----------|-------------|
+| [🎭 GAN Generation on CIFAR-10](notebooks/3_Deep_Learning/5_generative_models/GAN_Gneration_on_CIFAR10.ipynb) | Generative Adversarial Network for image generation |
 
 ---
 
