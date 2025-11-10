@@ -2,53 +2,147 @@
 
 # 🔬 Machine Learning Lab
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)](https://seaborn.pydata.org/)
+<!-- Project Status Badges -->
+<p>
+  <a href="https://github.com/xlxsgit/machine-learning-lab/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/xlxsgit/machine-learning-lab" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/xlxsgit/machine-learning-lab" alt="last update" />
+  </a>
+  <a href="https://github.com/xlxsgit/machine-learning-lab/network/members">
+    <img src="https://img.shields.io/github/forks/xlxsgit/machine-learning-lab" alt="forks" />
+  </a>
+  <a href="https://github.com/xlxsgit/machine-learning-lab/stargazers">
+    <img src="https://img.shields.io/github/stars/xlxsgit/machine-learning-lab" alt="stars" />
+  </a>
+  <a href="https://github.com/xlxsgit/machine-learning-lab/issues/">
+    <img src="https://img.shields.io/github/issues/xlxsgit/machine-learning-lab" alt="open issues" />
+  </a>
+  <a href="https://github.com/xlxsgit/machine-learning-lab/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/xlxsgit/machine-learning-lab.svg" alt="license" />
+  </a>
+</p>
 
-A comprehensive, notebook-based machine learning laboratory for exploring algorithms, simulating datasets, and performing end-to-end experiments with professional visualization and analysis.
+<!-- Technology Stack Badges -->
+<p>
+  <a href="https://www.python.org/downloads/">
+    <img src="https://img.shields.io/badge/python-3.12+-blue.svg" alt="Python" />
+  </a>
+  <a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" alt="Jupyter" />
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+  <a href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  </a>
+  <a href="https://xgboost.ai/">
+  <img src="https://img.shields.io/badge/XGBoost-3776AB?style=flat&logo=xgboost&logoColor=white" alt="XGBoost" />
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
+  <a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  </a>
+  <a href="https://seaborn.pydata.org/">
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat" alt="Seaborn" />
+  </a>
+</p>
+
+A notebook-based machine learning laboratory for solidifying fundamentals, experimenting with algorithms, and building reproducible portfolio examples through hands-on exploration.
 
 </div>
 
+<details>
+  <summary>Expand Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#-motivation--goals">🎯 Motivation & Goals</a>
+    </li>
+    <li>
+      <a href="#-featured-notebooks">📊 Featured Notebooks</a>
+      <ul>
+        <li><a href="#-statistical-analysis">📈 Statistical Analysis</a></li>
+        <li><a href="#-machine-statistical-learning">🤖 Machine Statistical Learning</a></li>
+        <li><a href="#-deep-learning">🧠 Deep Learning</a></li>
+      </ul>
+    </li>
+    <li><a href="#-license">📝 License</a></li>
+    <li><a href="#-support">⭐ Support</a></li>
+  </ol>
+</details>
+
 ---
+## 📋 About the Project
 
-## 📰 Table of Contents
+This laboratory was established to **solidify understanding** of machine learning fundamentals, **experiment fearlessly** with diverse algorithms, and **build a comprehensive portfolio** of reproducible examples. Designed as an interactive learning environment, it serves as both an educational resource and experimental workspace for the ML community.
 
-- [🎯 Motivation & Goals](#-motivation--goals)
-- [📊 Featured Notebooks](#-featured-notebooks)
-  - [📈 Statistical Analysis](#-1_statistical_analysis)
-  - [🤖 Machine Statistical Learning](#-2_machine_statistical_learning)
-  - [🧠 Deep Learning](#-3_deep_learning)
-- [📝 License](#-license)
-- [⭐ Support](#-support)
+<table>
+  <tr>
+    <td colspan="5" align="center">
+      <img src="https://img.shields.io/badge/Target_Audience-2C3E50?style=for-the-badge&logo=people&logoColor=white&height=32" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Students-FF6B6B?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Researchers-4ECDC4?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Enthusiasts-45B7D1?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Data_Scientists-96CEB4?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ML_Engineers-F7B267?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
+    </td>
+  </tr>
+</table>
 
----
+<table>
+  <tr>
+    <td colspan="5" align="center">
+      <img src="https://img.shields.io/badge/Key_Features-2C3E50?style=for-the-badge&logo=star&logoColor=white&height=32" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Practical-FF6B6B?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Comprehensive-4ECDC4?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Experimental-45B7D1?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Notebook_Centric-96CEB4?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Visualization_Rich-F7B267?style=for-the-badge&logo=&logoColor=white&labelColor=gray&height=32" />
+    </td>
+  </tr>
+</table>
 
-## 🎯 Motivation & Goals
 
-This lab was created to solidify understanding of machine learning fundamentals, experiment with various algorithms, and build a portfolio of reproducible examples. It aims to be a resource for students, researchers, and practitioners looking to explore ML concepts hands-on using Python and popular libraries.
-
-**👥 Target Audience:**
-
-* 👤 Machine Learning Engineers
-* 👤 Data Scientists
-* 👤 Researchers & Students in related fields
-* 👤 Anyone interested in learning and practicing ML with Python
 
 ---
 
 ## 📊 Featured Notebooks
 
-### 📈 1_Statistical_Analysis
+### 📈 Statistical Analysis
 > (More notebooks continuously being added)
 
-### 🤖 2_Machine_Statistical_Learning
+### 🤖 Machine Statistical Learning
 
 #### 📉 Linear Models
 | Task | Algorithm | Notebook |
@@ -62,7 +156,7 @@ This lab was created to solidify understanding of machine learning fundamentals,
 | Classification | Random Forest | [🌿 Random Forest Classification on Wine](notebooks/2_Machine_Statistical_Learning/tree_models/Random_Forest_Classification_on_Wine.ipynb) |
 | Regression | XGBoost | [🏗️ XGBoost Regression on California](notebooks/2_Machine_Statistical_Learning/tree_models/XGBoost_Regression_on_California.ipynb) |
 
-### 🧠 3_Deep_Learning
+### 🧠 Deep Learning
 
 #### 🖼️ CNN Models
 | Task | Algorithm | Notebook |
