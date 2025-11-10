@@ -1,8 +1,9 @@
-# 🧪 Machine Learning Lab
+# 🔬 Machine Learning Lab
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 A comprehensive, notebook-based machine learning laboratory for exploring algorithms, simulating datasets, and performing end-to-end experiments with professional visualization and analysis.
 
@@ -21,53 +22,42 @@ This project provides a professional yet flexible workflow to:
 Each notebook is designed as a **self-contained learning module** with theoretical background, practical implementation, and result validation. Data simulation is used only when necessary to demonstrate specific concepts.
 
 ---
+
 ## 📊 Featured Notebooks
 
-*(More notebooks continuously being added)*
-
----
-
 ### 📈 1_Statistical_Analysis
-<!-- No notebooks in this section yet -->
-
----
+> (More notebooks continuously being added)
 
 ### 🤖 2_Machine_Statistical_Learning
 
 #### 📉 Linear Models
-| Notebook | Description |
-|----------|-------------|
-| [🍷 Logistic Classification on Wine](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_Classification_on_Wine.ipynb) | Classification using logistic regression on wine dataset |
-
-#### 🔍 SVM Models
-| Notebook | Description |
-|----------|-------------|
-| [🌸 SVM Classification on Iris](notebooks/2_Machine_Statistical_Learning/svm_models/SVM_Classification_on_Iris.ipynb) | Support Vector Machine classification on iris dataset |
+| Task | Algorithm | Notebook |
+|------|-----------|----------|
+| Classification | Logistic Regression | [🍷 Logistic Classification on Wine](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_Classification_on_Wine.ipynb) |
+| Classification | Support Vector Machine (SVM) | [🌸 SVM Classification on Iris](notebooks/2_Machine_Statistical_Learning/linear_models/SVM_Classification_on_Iris.ipynb) |
 
 #### 🌲 Tree Models
-| Notebook | Description |
-|----------|-------------|
-| [🌿 Random Forest Classification on Wine](notebooks/2_Machine_Statistical_Learning/tree_models/Random_Forest_Classification_on_Wine.ipynb) | Ensemble classification using Random Forest on wine dataset |
-| [🏗️ XGBoost Regression on California](notebooks/2_Machine_Statistical_Learning/tree_models/XGBoost_Regression_on_California.ipynb) | Gradient boosting regression on California housing dataset |
-
----
+| Task | Algorithm | Notebook |
+|------|-----------|----------|
+| Classification | Random Forest | [🌿 Random Forest Classification on Wine](notebooks/2_Machine_Statistical_Learning/tree_models/Random_Forest_Classification_on_Wine.ipynb) |
+| Regression | XGBoost | [🏗️ XGBoost Regression on California](notebooks/2_Machine_Statistical_Learning/tree_models/XGBoost_Regression_on_California.ipynb) |
 
 ### 🧠 3_Deep_Learning
 
 #### 🖼️ CNN Models
-| Notebook | Description |
-|----------|-------------|
-| [🔢 CNN Classification on MNIST](notebooks/3_Deep_Learning/2_cnn_models/CNN_Classification_on_MNIST.ipynb) | Convolutional Neural Network for digit classification |
+| Task | Algorithm | Notebook |
+|------|-----------|----------|
+| Classification | Convolutional Neural Network (CNN) | [🔢 CNN Classification on MNIST](notebooks/3_Deep_Learning/2_cnn_models/CNN_Classification_on_MNIST.ipynb) |
 
 #### 🔄 RNN Models
-| Notebook | Description |
-|----------|-------------|
-| [✈️ LSTM Forecasting on Airline](notebooks/3_Deep_Learning/3_rnn_models/LSTM_Forecasting_on_Airline.ipynb) | Long Short-Term Memory for time series forecasting |
+| Task | Algorithm | Notebook |
+|------|-----------|----------|
+| TS Forecasting | Long Short-Term Memory (LSTM) | [✈️ LSTM Forecasting on Airline](notebooks/3_Deep_Learning/3_rnn_models/LSTM_Forecasting_on_Airline.ipynb) |
 
 #### 🎨 Generative Models
-| Notebook | Description |
-|----------|-------------|
-| [🎭 GAN Generation on CIFAR-10](notebooks/3_Deep_Learning/5_generative_models/GAN_Gneration_on_CIFAR10.ipynb) | Generative Adversarial Network for image generation |
+| Task | Algorithm | Notebook |
+|------|-----------|----------|
+| Image Generation | Generative Adversarial Network (GAN) | [🎭 GAN Generation on CIFAR-10](notebooks/3_Deep_Learning/5_generative_models/GAN_Gneration_on_CIFAR10.ipynb) |
 
 ---
 
@@ -95,6 +85,9 @@ pip install -r requirements.txt
 jupyter lab
 ```
 **Note:** This project is developed with Python 3.12, but is generally compatible with other Python 3.x versions.
+
+---
+
 ## 🚀 Usage
 
 Navigate to the `notebooks/` directory and open any notebook using these recommended environments:
@@ -140,3 +133,5 @@ If you find this project useful for your learning or research, please consider:
 - Giving a Star ⭐ on GitHub to show your support
 - Sharing with others who might benefit
 - Contributing new algorithms and implementations
+
+---
