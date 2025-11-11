@@ -59,6 +59,7 @@ A notebook-based machine learning laboratory for solidifying fundamentals, exper
 
 </div>
 
+<!-- Table of Contents -->
 <details>
   <summary>Expand Table of Contents</summary>
   <ol>
@@ -87,9 +88,7 @@ A notebook-based machine learning laboratory for solidifying fundamentals, exper
 <img src="https://img.shields.io/badge/-Enthusiasts-45B7D1?style=flat-square&logo=githubsponsors&logoColor=white" />
 <img src="https://img.shields.io/badge/-Data%20Scientists-96CEB4?style=flat-square&logo=datacamp&logoColor=white" />
 <img src="https://img.shields.io/badge/-ML%20Engineers-F7B267?style=flat-square&logo=pytorch&logoColor=white" />
-
-<br>
-
+<br style="line-height: 0.5;">
 <img src="https://img.shields.io/badge/Key%20Features%20%20-2C3E50?style=flat-square&logo=starship&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/-Practical-FF6B6B?style=flat-square&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/-Comprehensive-4ECDC4?style=flat-square&logo=stackoverflow&logoColor=white" />
@@ -101,41 +100,51 @@ This laboratory was established to **solidify understanding** of machine learnin
 
 ---
 
-## 📊 Featured Notebooks
+## ✨ Notebook Gallery
 
-### 📈 Statistical Analysis
-> (More notebooks continuously being added)
+### <div align="center">📈 Statistical Analysis</div>
+> 🔄 *More notebooks continuously being added*
 
-### 🤖 Machine Statistical Learning
+---
 
-#### 📉 Linear Models
-| Task | Algorithm | Notebook |
-| :--- | :--- | :--- |
-| Classification | Logistic Regression | [🍷 Logistic Classification on Wine](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_Classification_on_Wine.ipynb) |
-| Classification | Support Vector Machine (SVM) | [🌸 SVM Classification on Iris](notebooks/2_Machine_Statistical_Learning/linear_models/SVM_Classification_on_Iris.ipynb) |
+### <div align="center">🤖 Machine Statistical Learning</div>
 
-#### 🌲 Tree Models
-| Task | Algorithm | Notebook |
-| :--- | :--- | :--- |
-| Classification | Random Forest | [🌿 Random Forest Classification on Wine](notebooks/2_Machine_Statistical_Learning/tree_models/Random_Forest_Classification_on_Wine.ipynb) |
-| Regression | XGBoost | [🏗️ XGBoost Regression on California](notebooks/2_Machine_Statistical_Learning/tree_models/XGBoost_Regression_on_California.ipynb) |
+#### 📌 Linear Models
+<div style="background: #f8f9fa; padding: 12px; margin: 8px 0; border-radius: 8px; border-left: 4px solid #4CAF50;">
+**Logistic Regression** · <span style="background: #e8f5e8; color: #2e7d32; padding: 2px 6px; border-radius: 3px; font-size: 0.9em;">Classification</span> · <span style="color: #8B4513; font-weight: 500;">Wine Dataset</span> · <a href="notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_Classification_on_Wine.ipynb" style="background: #4CAF50; color: white; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-weight: 500;">Open Notebook</a>
+</div>
 
-### 🧠 Deep Learning
+<div style="background: #f8f9fa; padding: 12px; margin: 8px 0; border-radius: 8px; border-left: 4px solid #4CAF50;">
+**Support Vector Machine (SVM)** · <span style="background: #e8f5e8; color: #2e7d32; padding: 2px 6px; border-radius: 3px; font-size: 0.9em;">Classification</span> · <span style="color: #FF69B4; font-weight: 500;">Iris Dataset</span> · <a href="notebooks/2_Machine_Statistical_Learning/linear_models/SVM_Classification_on_Iris.ipynb" style="background: #4CAF50; color: white; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-weight: 500;">Open Notebook</a>
+</div>
 
-#### 🖼️ CNN Models
-| Task | Algorithm | Notebook |
-| :--- | :--- | :--- |
-| Classification | Convolutional Neural Network (CNN) | [🔢 CNN Classification on MNIST](notebooks/3_Deep_Learning/2_cnn_models/CNN_Classification_on_MNIST.ipynb) |
+#### 📌 Tree Models
+<div style="background: #f8f9fa; padding: 12px; margin: 8px 0; border-radius: 8px; border-left: 4px solid #4CAF50;">
+**Random Forest** · <span style="background: #e8f5e8; color: #2e7d32; padding: 2px 6px; border-radius: 3px; font-size: 0.9em;">Classification</span> · <span style="color: #8B4513; font-weight: 500;">Wine Dataset</span> · <a href="notebooks/2_Machine_Statistical_Learning/tree_models/Random_Forest_Classification_on_Wine.ipynb" style="background: #4CAF50; color: white; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-weight: 500;">Open Notebook</a>
+</div>
 
-#### 🔄 RNN Models
-| Task | Algorithm | Notebook |
-| :--- | :--- | :--- |
-| TS Forecasting | Long Short-Term Memory (LSTM) | [✈️ LSTM Forecasting on Airline](notebooks/3_Deep_Learning/3_rnn_models/LSTM_Forecasting_on_Airline.ipynb) |
+<div style="background: #f8f9fa; padding: 12px; margin: 8px 0; border-radius: 8px; border-left: 4px solid #2196F3;">
+**XGBoost** · <span style="background: #e3f2fd; color: #1565c0; padding: 2px 6px; border-radius: 3px; font-size: 0.9em;">Regression</span> · <span style="color: #1E90FF; font-weight: 500;">California Dataset</span> · <a href="notebooks/2_Machine_Statistical_Learning/tree_models/XGBoost_Regression_on_California.ipynb" style="background: #2196F3; color: white; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-weight: 500;">Open Notebook</a>
+</div>
 
-#### 🎨 Generative Models
-| Task | Algorithm | Notebook |
-| :--- | :--- | :--- |
-| Image Generation | Generative Adversarial Network (GAN) | [🎭 GAN Generation on CIFAR-10](notebooks/3_Deep_Learning/5_generative_models/GAN_Generation_on_CIFAR10.ipynb) |
+---
+
+### <div align="center">🧠 Deep Learning</div>
+
+#### 📌 CNN Models
+<div style="background: #f8f9fa; padding: 12px; margin: 8px 0; border-radius: 8px; border-left: 4px solid #4CAF50;">
+**Convolutional Neural Network (CNN)** · <span style="background: #e8f5e8; color: #2e7d32; padding: 2px 6px; border-radius: 3px; font-size: 0.9em;">Classification</span> · <span style="color: #483D8B; font-weight: 500;">MNIST Dataset</span> · <a href="notebooks/3_Deep_Learning/2_cnn_models/CNN_Classification_on_MNIST.ipynb" style="background: #4CAF50; color: white; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-weight: 500;">Open Notebook</a>
+</div>
+
+#### 📌 RNN Models
+<div style="background: #f8f9fa; padding: 12px; margin: 8px 0; border-radius: 8px; border-left: 4px solid #FF9800;">
+**Long Short-Term Memory (LSTM)** · <span style="background: #fff3e0; color: #ef6c00; padding: 2px 6px; border-radius: 3px; font-size: 0.9em;">TS Forecasting</span> · <span style="color: #008080; font-weight: 500;">Airline Dataset</span> · <a href="notebooks/3_Deep_Learning/3_rnn_models/LSTM_Forecasting_on_Airline.ipynb" style="background: #FF9800; color: white; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-weight: 500;">Open Notebook</a>
+</div>
+
+#### 📌 Generative Models
+<div style="background: #f8f9fa; padding: 12px; margin: 8px 0; border-radius: 8px; border-left: 4px solid #9C27B0;">
+**Generative Adversarial Network (GAN)** · <span style="background: #f3e5f5; color: #7b1fa2; padding: 2px 6px; border-radius: 3px; font-size: 0.9em;">Image Generation</span> · <span style="color: #9932CC; font-weight: 500;">CIFAR-10 Dataset</span> · <a href="notebooks/3_Deep_Learning/5_generative_models/GAN_Generation_on_CIFAR10.ipynb" style="background: #9C27B0; color: white; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-weight: 500;">Open Notebook</a>
+</div>
 
 ---
 
