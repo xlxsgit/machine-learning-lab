@@ -2,58 +2,65 @@
 
 # 🔬 Machine Learning Lab
 
+<!-- Badge Definitions -->
+[contributors-image]: https://img.shields.io/github/contributors/xlxsgit/machine-learning-lab
+[contributors-url]: https://github.com/xlxsgit/machine-learning-lab/graphs/contributors
+[commit-image]: https://img.shields.io/github/last-commit/xlxsgit/machine-learning-lab
+[commit-url]: https://github.com/xlxsgit/machine-learning-lab
+[forks-image]: https://img.shields.io/github/forks/xlxsgit/machine-learning-lab
+[forks-url]: https://github.com/xlxsgit/machine-learning-lab/network/members
+[stars-image]: https://img.shields.io/github/stars/xlxsgit/machine-learning-lab
+[stars-url]: https://github.com/xlxsgit/machine-learning-lab/stargazers
+[issues-image]: https://img.shields.io/github/issues/xlxsgit/machine-learning-lab
+[issues-url]: https://github.com/xlxsgit/machine-learning-lab/issues/
+[license-image]: https://img.shields.io/github/license/xlxsgit/machine-learning-lab.svg
+[license-url]: https://github.com/xlxsgit/machine-learning-lab/blob/master/LICENSE
+
+[python-image]: https://img.shields.io/badge/python-3.12+-blue.svg
+[python-url]: https://www.python.org/downloads/
+[jupyter-image]: https://img.shields.io/badge/Jupyter-Notebook-orange.svg
+[jupyter-url]: https://jupyter.org/
+[pytorch-image]: https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white
+[pytorch-url]: https://pytorch.org/
+[sklearn-image]: https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white
+[sklearn-url]: https://scikit-learn.org/
+[xgboost-image]: https://img.shields.io/badge/XGBoost-3776AB?style=flat&logo=xgboost&logoColor=white
+[xgboost-url]: https://xgboost.ai/
+[pandas-image]: https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white
+[pandas-url]: https://pandas.pydata.org/
+[numpy-image]: https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white
+[numpy-url]: https://numpy.org/
+[matplotlib-image]: https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white
+[matplotlib-url]: https://matplotlib.org/
+[seaborn-image]: https://img.shields.io/badge/Seaborn-3776AB?style=flat
+[seaborn-url]: https://seaborn.pydata.org/
+
 <!-- Project Status Badges -->
-<p>
-  <a href="https://github.com/xlxsgit/machine-learning-lab/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/xlxsgit/machine-learning-lab" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/xlxsgit/machine-learning-lab" alt="last update" />
-  </a>
-  <a href="https://github.com/xlxsgit/machine-learning-lab/network/members">
-    <img src="https://img.shields.io/github/forks/xlxsgit/machine-learning-lab" alt="forks" />
-  </a>
-  <a href="https://github.com/xlxsgit/machine-learning-lab/stargazers">
-    <img src="https://img.shields.io/github/stars/xlxsgit/machine-learning-lab" alt="stars" />
-  </a>
-  <a href="https://github.com/xlxsgit/machine-learning-lab/issues/">
-    <img src="https://img.shields.io/github/issues/xlxsgit/machine-learning-lab" alt="open issues" />
-  </a>
-  <a href="https://github.com/xlxsgit/machine-learning-lab/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/xlxsgit/machine-learning-lab.svg" alt="license" />
-  </a>
-</p>
+<div align="center">
+
+[![Contributors][contributors-image]][contributors-url]
+[![Last Commit][commit-image]][commit-url]
+[![Forks][forks-image]][forks-url]
+[![Stars][stars-image]][stars-url]
+[![Issues][issues-image]][issues-url]
+[![License][license-image]][license-url]
+
+</div>
 
 <!-- Technology Stack Badges -->
-<p>
-  <a href="https://www.python.org/downloads/">
-    <img src="https://img.shields.io/badge/python-3.12+-blue.svg" alt="Python" />
-  </a>
-  <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" alt="Jupyter" />
-  </a>
-  <a href="https://pytorch.org/">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  </a>
-  <a href="https://scikit-learn.org/">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  </a>
-  <a href="https://xgboost.ai/">
-  <img src="https://img.shields.io/badge/XGBoost-3776AB?style=flat&logo=xgboost&logoColor=white" alt="XGBoost" />
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  </a>
-  <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  </a>
-  <a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  </a>
-  <a href="https://seaborn.pydata.org/">
-    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat" alt="Seaborn" />
-  </a>
-</p>
+<div align="center">
+
+[![Python][python-image]][python-url]
+[![Jupyter][jupyter-image]][jupyter-url]
+[![PyTorch][pytorch-image]][pytorch-url]
+[![Scikit-learn][sklearn-image]][sklearn-url]
+[![XGBoost][xgboost-image]][xgboost-url]
+[![Pandas][pandas-image]][pandas-url]
+[![NumPy][numpy-image]][numpy-url]
+[![Matplotlib][matplotlib-image]][matplotlib-url]
+[![Seaborn][seaborn-image]][seaborn-url]
+
+</div>
 
 A notebook-based machine learning laboratory for solidifying fundamentals, experimenting with algorithms, and building reproducible portfolio examples through hands-on exploration.
 
@@ -64,14 +71,14 @@ A notebook-based machine learning laboratory for solidifying fundamentals, exper
   <summary>Expand Table of Contents</summary>
   <ol>
     <li>
-      <a href="#-motivation--goals">🎯 Motivation & Goals</a>
+      <a href="#-about-the-project">📖 About the Project</a>
     </li>
     <li>
-      <a href="#-featured-notebooks">📊 Featured Notebooks</a>
+      <a href="#-notebook-gallery">✨ Notebook Gallery</a>
       <ul>
-        <li><a href="#-statistical-analysis">📈 Statistical Analysis</a></li>
-        <li><a href="#-machine-statistical-learning">🤖 Machine Statistical Learning</a></li>
-        <li><a href="#-deep-learning">🧠 Deep Learning</a></li>
+        <li><a href="#statistical-analysis">📈 Statistical Analysis</a></li>
+        <li><a href="#machine-statistical-learning">🤖 Machine Statistical Learning</a></li>
+        <li><a href="#deep-learning">🧠 Deep Learning</a></li>
       </ul>
     </li>
     <li><a href="#-license">📝 License</a></li>
@@ -80,7 +87,8 @@ A notebook-based machine learning laboratory for solidifying fundamentals, exper
 </details>
 
 ---
-## 📋 About the Project
+
+## 📖 About the Project
 
 <img src="https://img.shields.io/badge/For%20Whom%20%20%20-2C3E50?style=flat-square&logo=superuser&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/-Students-FF6B6B?style=flat-square&logo=academia&logoColor=white" />
@@ -101,12 +109,12 @@ This laboratory was established to **solidify understanding** of machine learnin
 ---
 
 ## ✨ Notebook Gallery
-
+<a id="statistical-analysis"></a>
 ### <div align="center">📈 Statistical Analysis</div>
 > 🔄 *More notebooks continuously being added*
 
 ---
-
+<a id="machine-statistical-learning"></a>  
 ### <div align="center">🤖 Machine Statistical Learning</div>
 
 #### 📌 Linear Models
@@ -128,7 +136,7 @@ This laboratory was established to **solidify understanding** of machine learnin
 </div>
 
 ---
-
+<a id="deep-learning"></a>
 ### <div align="center">🧠 Deep Learning</div>
 
 #### 📌 CNN Models
