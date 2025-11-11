@@ -7,12 +7,6 @@
 [contributors-url]: https://github.com/xlxsgit/machine-learning-lab/graphs/contributors
 [commit-image]: https://img.shields.io/github/last-commit/xlxsgit/machine-learning-lab
 [commit-url]: https://github.com/xlxsgit/machine-learning-lab
-[forks-image]: https://img.shields.io/github/forks/xlxsgit/machine-learning-lab
-[forks-url]: https://github.com/xlxsgit/machine-learning-lab/network/members
-[stars-image]: https://img.shields.io/github/stars/xlxsgit/machine-learning-lab
-[stars-url]: https://github.com/xlxsgit/machine-learning-lab/stargazers
-[issues-image]: https://img.shields.io/github/issues/xlxsgit/machine-learning-lab
-[issues-url]: https://github.com/xlxsgit/machine-learning-lab/issues/
 [license-image]: https://img.shields.io/github/license/xlxsgit/machine-learning-lab.svg
 [license-url]: https://github.com/xlxsgit/machine-learning-lab/blob/master/LICENSE
 
@@ -40,9 +34,6 @@
 
 [![Contributors][contributors-image]][contributors-url]
 [![Last Commit][commit-image]][commit-url]
-[![Forks][forks-image]][forks-url]
-[![Stars][stars-image]][stars-url]
-[![Issues][issues-image]][issues-url]
 [![License][license-image]][license-url]
 
 </div>
