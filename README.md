@@ -120,15 +120,15 @@ This laboratory was established to **solidify understanding** of machine learnin
 
 #### 📌 Linear Models
 
-> <span style="color: #4CAF50">**Logistic Regression** · Classification · Wine Dataset</span> · [📓***Notebook***](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_Classification_on_Wine.ipynb)
+> 🟢 **Logistic Regression** · Classification · Wine Dataset · [***Notebook***](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_Classification_on_Wine.ipynb)
 
-> <span style="color: #4CAF50">**Support Vector Machine (SVM)** · Classification · Iris Dataset</span> · [📓***Notebook***](notebooks/2_Machine_Statistical_Learning/linear_models/SVM_Classification_on_Iris.ipynb)
+> 🟢 **Support Vector Machine (SVM)** · Classification · Iris Dataset · [***Notebook***](notebooks/2_Machine_Statistical_Learning/linear_models/SVM_Classification_on_Iris.ipynb)
 
 #### 📌 Tree Models
 
-> <span style="color: #4CAF50">**Random Forest** · Classification · Wine Dataset</span> · [📓***Notebook***](notebooks/2_Machine_Statistical_Learning/tree_models/Random_Forest_Classification_on_Wine.ipynb)
+> 🟢 **Random Forest** · Classification · Wine Dataset · [***Notebook***](notebooks/2_Machine_Statistical_Learning/tree_models/Random_Forest_Classification_on_Wine.ipynb)
 
-> <span style="color: #2196F3">**XGBoost** · Regression · California Dataset</span> · [📓***Notebook***](notebooks/2_Machine_Statistical_Learning/tree_models/XGBoost_Regression_on_California.ipynb)
+> 🔵 **XGBoost** · Regression · California Dataset · [***Notebook***](notebooks/2_Machine_Statistical_Learning/tree_models/XGBoost_Regression_on_California.ipynb)
 
 ---
 <a id="deep-learning"></a>
@@ -136,21 +136,21 @@ This laboratory was established to **solidify understanding** of machine learnin
 
 #### 📌 CNN Models
 
-> <span style="color: #4CAF50">**Convolutional Neural Network (CNN)** · Classification · MNIST Dataset</span> · [📓***Notebook***](notebooks/3_Deep_Learning/2_cnn_models/CNN_Classification_on_MNIST.ipynb)
+> 🟢 **Convolutional Neural Network (CNN)** · Classification · MNIST Dataset · [***Notebook***](notebooks/3_Deep_Learning/2_cnn_models/CNN_Classification_on_MNIST.ipynb)
 
 #### 📌 RNN Models
 
-> <span style="color: #FF9800">**Long Short-Term Memory (LSTM)** · TS Forecasting · Airline Dataset</span> · [📓***Notebook***](notebooks/3_Deep_Learning/3_rnn_models/LSTM_Forecasting_on_Airline.ipynb)
+> 🟠 **Long Short-Term Memory (LSTM)** · TS Forecasting · Airline Dataset · [***Notebook***](notebooks/3_Deep_Learning/3_rnn_models/LSTM_Forecasting_on_Airline.ipynb)
 
 #### 📌 Generative Models
 
-> <span style="color: #9C27B0">**Generative Adversarial Network (GAN)** · Image Generation · CIFAR-10 Dataset</span> · [📓***Notebook***](notebooks/3_Deep_Learning/5_generative_models/GAN_Generation_on_CIFAR10.ipynb)
+> 🟣 **Generative Adversarial Network (GAN)** · Image Generation · CIFAR-10 Dataset · [***Notebook***](notebooks/3_Deep_Learning/5_generative_models/GAN_Generation_on_CIFAR10.ipynb)
 
 ---
 
 ## 📝 License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [**MIT License**](./LICENSE).
 You are free to use, modify, and distribute it for educational or research purposes.
 
 ---
