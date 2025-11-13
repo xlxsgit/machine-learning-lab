@@ -107,7 +107,7 @@ This laboratory was established to **solidify understanding** of machine learnin
 > <span style="color:#E74C3C; font-weight:bold">ANOVA</span> · 
 > <span style="color:#3498DB; font-weight:bold">Hypothesis Testing</span> · 
 > <span style="color:#2ECC71; font-weight:bold">Iris</span> · 
-> [<span style="color:#9B59B6; font-weight:bold">*🔗Notebook*</span>](notebooks/1_Statistical_Analysis/hypothesis_testing/ANOVA_on_Iris.ipynb)
+> [<span style="color:#9B59B6; font-weight:bold">*🔗Notebook*</span>](notebooks/1_Statistical_Analysis/hypothesis_testing/ANOVA on Iris.ipynb)
 
 ---
 <a id="machine-statistical-learning"></a>  
@@ -115,34 +115,24 @@ This laboratory was established to **solidify understanding** of machine learnin
 
 #### 〰️ Linear Models
 
-> <span style="color:#E74C3C; font-weight:bold">Logistic Regression</span> ·
-> <span style="color:#3498DB; font-weight:bold">Classification</span> ·
-> <span style="color:#2ECC71; font-weight:bold">Wine</span> ·
-> [<span style="color:#9B59B6; font-weight:bold">*Notebook*</span>](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_on_Wine.ipynb)
+<span style="color:#E74C3C; font-weight:bold">Logistic Regression</span> ·
+<span style="color:#3498DB; font-weight:bold">Classification</span> ·
+<span style="color:#2ECC71; font-weight:bold">Wine</span> ·
+[<span style="color:#9B59B6; font-weight:bold">*Notebook*</span>](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_on_Wine.ipynb)
 
-> **Support Vector Machine (SVM)** · Classification · Iris Dataset · [***Notebook***](notebooks/2_Machine_Statistical_Learning/linear_models/SVM_Classification_on_Iris.ipynb)
 
 #### 🌴 Tree Models
 
-> **Random Forest** · Classification · Wine Dataset · [***Notebook***](notebooks/2_Machine_Statistical_Learning/tree_models/Random_Forest_Classification_on_Wine.ipynb)
-
-> **XGBoost** · Regression · California Dataset · [***Notebook***](notebooks/2_Machine_Statistical_Learning/tree_models/XGBoost_Regression_on_California.ipynb)
-
 ---
+
 <a id="deep-learning"></a>
 ### <div align="center">🧠 Deep Learning</div>
 
 #### 💠 CNN Models
 
-> **Convolutional Neural Network (CNN)** · Classification · MNIST Dataset · [***Notebook***](notebooks/3_Deep_Learning/2_cnn_models/CNN_Classification_on_MNIST.ipynb)
-
 #### ♻️ RNN Models
 
-> **Long Short-Term Memory (LSTM)** · TS Forecasting · Airline Dataset · [***Notebook***](notebooks/3_Deep_Learning/3_rnn_models/LSTM_Forecasting_on_Airline.ipynb)
-
 #### 🎨 Generative Models
-
-> **Generative Adversarial Network (GAN)** · Image Generation · CIFAR-10 Dataset · [***Notebook***](notebooks/3_Deep_Learning/5_generative_models/GAN_Generation_on_CIFAR10.ipynb)
 
 ---
 
