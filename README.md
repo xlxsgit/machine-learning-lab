@@ -67,9 +67,9 @@ A notebook-based machine learning laboratory for solidifying fundamentals, exper
     <li>
       <a href="#-notebook-gallery">✨ Notebook Gallery</a>
       <ul>
-        <li><a href="#statistical-analysis">📈 Statistical Analysis</a></li>
-        <li><a href="#machine-statistical-learning">🤖 Machine Statistical Learning</a></li>
-        <li><a href="#deep-learning">🧠 Deep Learning</a></li>
+        <li><a href="#-statistics">📈 Statistics</a></li>
+        <li><a href="#-machine-learning">🤖 Machine Learning</a></li>
+        <li><a href="#-deep-learning">🧠 Deep Learning</a></li>
       </ul>
     </li>
     <li><a href="#-license">📝 License</a></li>
@@ -100,32 +100,30 @@ This laboratory was established to **solidify understanding** of machine learnin
 ---
 
 ## ✨ Notebook Gallery
-<a id="statistical-analysis"></a>
-### <div align="center">📈 Statistical Analysis</div>
+### 📈 Statistics
 #### ⚓ Hypothesis Testing
 
 ![ANOVA](https://img.shields.io/badge/ANOVA-E74C3C?style=flat-square&logoColor=white)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-3498DB?style=flat-square&logoColor=white)
 ![Iris](https://img.shields.io/badge/Iris-2ECC71?style=flat-square&logoColor=white)
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/1_Statistical_Analysis/hypothesis_testing/ANOVA on Iris.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/statistics/hypothesis-testing/ANOVA-on-Iris.ipynb)
 
 ---
-<a id="machine-statistical-learning"></a>  
-### <div align="center">🤖 Machine Statistical Learning</div>
+
+### 🤖 Machine Learning
 
 #### 〰️ Linear Models
 
 ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-EF5B5B?style=flat-square&logoColor=white)
 ![Classification](https://img.shields.io/badge/Classification-3498DB?style=flat-square&logoColor=white)
 ![Wine](https://img.shields.io/badge/Wine-2ECC71?style=flat-square&logoColor=white)
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic on Wine.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/machine-learning/linear/Logistic-on-Wine.ipynb)
 
 #### 🌴 Tree Models
 
 ---
 
-<a id="deep-learning"></a>
-### <div align="center">🧠 Deep Learning</div>
+### 🧠 Deep Learning
 
 #### 💠 CNN Models
 
