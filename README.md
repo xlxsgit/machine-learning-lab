@@ -104,10 +104,10 @@ This laboratory was established to **solidify understanding** of machine learnin
 ### <div align="center">📈 Statistical Analysis</div>
 #### ⚓ Hypothesis Testing
 
-> <span style="color:#E74C3C; font-weight:bold">ANOVA</span> · 
-> <span style="color:#3498DB; font-weight:bold">Hypothesis Testing</span> · 
-> <span style="color:#2ECC71; font-weight:bold">Iris</span> · 
-> [<span style="color:#9B59B6; font-weight:bold">*🔗Notebook*</span>](notebooks/1_Statistical_Analysis/hypothesis_testing/ANOVA on Iris.ipynb)
+![ANOVA](https://img.shields.io/badge/ANOVA-E74C3C?style=flat-square&logoColor=white)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-3498DB?style=flat-square&logoColor=white)
+![Iris](https://img.shields.io/badge/Iris-2ECC71?style=flat-square&logoColor=white)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/1_Statistical_Analysis/hypothesis_testing/ANOVA on Iris.ipynb)
 
 ---
 <a id="machine-statistical-learning"></a>  
@@ -115,11 +115,10 @@ This laboratory was established to **solidify understanding** of machine learnin
 
 #### 〰️ Linear Models
 
-<span style="color:#E74C3C; font-weight:bold">Logistic Regression</span> ·
-<span style="color:#3498DB; font-weight:bold">Classification</span> ·
-<span style="color:#2ECC71; font-weight:bold">Wine</span> ·
-[<span style="color:#9B59B6; font-weight:bold">*Notebook*</span>](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_on_Wine.ipynb)
-
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-EF5B5B?style=flat-square&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-3498DB?style=flat-square&logoColor=white)
+![Wine](https://img.shields.io/badge/Wine-2ECC71?style=flat-square&logoColor=white)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic on Wine.ipynb)
 
 #### 🌴 Tree Models
 
