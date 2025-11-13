@@ -103,7 +103,11 @@ This laboratory was established to **solidify understanding** of machine learnin
 <a id="statistical-analysis"></a>
 ### <div align="center">📈 Statistical Analysis</div>
 #### ⚓ Hypothesis Testing
-> **ANOVA*** · Hypothesis Testing · Simulated Dataset · [***Notebook***](notebooks/1_Statistical_Analysis/hypothesis_testing/ANOVA_on_Simulated.ipynb)
+
+> <span style="color:#E74C3C; font-weight:bold">ANOVA</span> · 
+> <span style="color:#3498DB; font-weight:bold">Hypothesis Testing</span> · 
+> <span style="color:#2ECC71; font-weight:bold">Iris</span> · 
+> [<span style="color:#9B59B6; font-weight:bold">*🔗Notebook*</span>](notebooks/1_Statistical_Analysis/hypothesis_testing/ANOVA_on_Iris.ipynb)
 
 ---
 <a id="machine-statistical-learning"></a>  
@@ -111,7 +115,10 @@ This laboratory was established to **solidify understanding** of machine learnin
 
 #### 〰️ Linear Models
 
-> **Logistic Regression** · Classification · Wine Dataset · [***Notebook***](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_Classification_on_Wine.ipynb)
+> <span style="color:#E74C3C; font-weight:bold">Logistic Regression</span> ·
+> <span style="color:#3498DB; font-weight:bold">Classification</span> ·
+> <span style="color:#2ECC71; font-weight:bold">Wine</span> ·
+> [<span style="color:#9B59B6; font-weight:bold">*Notebook*</span>](notebooks/2_Machine_Statistical_Learning/linear_models/Logistic_on_Wine.ipynb)
 
 > **Support Vector Machine (SVM)** · Classification · Iris Dataset · [***Notebook***](notebooks/2_Machine_Statistical_Learning/linear_models/SVM_Classification_on_Iris.ipynb)
 
