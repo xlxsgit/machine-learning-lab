@@ -126,6 +126,11 @@ This laboratory was established to **solidify understanding** of machine learnin
 ### 🧠 Deep Learning
 
 #### 💠 CNN Models
+![CNN](https://img.shields.io/badge/CNN-EF5B5B?style=flat-square&logoColor=white)
+![Image Classification](https://img.shields.io/badge/Image_Classification-3498DB?style=flat-square&logoColor=white)
+![MNIST](https://img.shields.io/badge/MNIST-2ECC71?style=flat-square&logoColor=white)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/deep-learning/cnn/CNN-on-MNIST.ipynb)
+
 
 #### ♻️ RNN Models
 
