@@ -119,6 +119,12 @@ Before diving into machine learning, it's essential to have a solid grasp of the
 ![Iris](https://img.shields.io/badge/Iris-2ECC71?style=flat-square&logoColor=white)
 [![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/statistics/hypothesis-testing/ANOVA-on-Iris.ipynb)
 
+#### 🎲 Sampling Methods
+
+![Inverse Transform Sampling](https://img.shields.io/badge/Inverse_Transform_Sampling-E74C3C?style=flat-square&logoColor=white)
+![Sampling](https://img.shields.io/badge/Sampling-3498DB?style=flat-square&logoColor=white)
+![Exponential distribution](https://img.shields.io/badge/Exponential_distribution-2ECC71?style=flat-square&logoColor=white)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/statistics/sampling/Inverse-Transform-Sampling.ipynb)
 ---
 
 ### 🤖 Machine Learning
