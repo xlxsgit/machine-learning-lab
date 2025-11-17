@@ -65,6 +65,9 @@ A notebook-based machine learning laboratory for solidifying fundamentals, exper
       <a href="#-about-the-project">📖 About the Project</a>
     </li>
     <li>
+      <a href="#-foundation-of-mathematics">📐 Foundation of Mathematics</a>
+    </li>
+    <li>
       <a href="#-notebook-gallery">✨ Notebook Gallery</a>
       <ul>
         <li><a href="#-statistics">📈 Statistics</a></li>
@@ -98,6 +101,14 @@ A notebook-based machine learning laboratory for solidifying fundamentals, exper
 This laboratory was established to **solidify understanding** of machine learning fundamentals, **experiment fearlessly** with diverse algorithms, and **build a comprehensive portfolio** of reproducible examples. Designed as an interactive learning environment, it serves as both an educational resource and experimental workspace for the ML community.
 
 ---
+
+## 📐 Foundation of Mathematics
+Before diving into machine learning, it's essential to have a solid grasp of the underlying mathematical concepts. This section provides resources and notebooks covering key areas such as:
+- [Linear Algebra](documents/foundation-of-mathematics/Linear-algebra.md)
+- Calculus
+- Mathematical Optimization
+- Probability Theory
+- Information Theory
 
 ## ✨ Notebook Gallery
 ### 📈 Statistics
