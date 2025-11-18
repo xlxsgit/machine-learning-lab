@@ -59,25 +59,29 @@ A notebook-based machine learning laboratory for solidifying fundamentals, exper
 
 <!-- Table of Contents -->
 <details>
-  <summary>Expand Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#-about-the-project">📖 About the Project</a>
-    </li>
-    <li>
-      <a href="#-foundation-of-mathematics">📐 Foundation of Mathematics</a>
-    </li>
-    <li>
-      <a href="#-notebook-gallery">✨ Notebook Gallery</a>
-      <ul>
-        <li><a href="#-statistics">📈 Statistics</a></li>
-        <li><a href="#-machine-learning">🤖 Machine Learning</a></li>
-        <li><a href="#-deep-learning">🧠 Deep Learning</a></li>
-      </ul>
-    </li>
-    <li><a href="#-license">📝 License</a></li>
-    <li><a href="#-support">⭐ Support</a></li>
-  </ol>
+  <summary>📋 Expand Table of Contents</summary>
+
+<!-- TOC -->
+* [🔬 Machine Learning Lab](#-machine-learning-lab)
+  * [📖 About the Project](#-about-the-project)
+  * [📐 Foundation of Mathematics](#-foundation-of-mathematics)
+  * [✨ Notebook Gallery](#-notebook-gallery)
+    * [📈 Statistics](#-statistics)
+      * [⚓ Hypothesis Testing](#-hypothesis-testing)
+      * [🎲 Sampling Methods](#-sampling-methods)
+    * [🤖 Machine Learning](#-machine-learning)
+      * [〰️ Linear Models](#-linear-models)
+      * [🌴 Tree Models](#-tree-models)
+      * [🧩 Unsupervised Models](#-unsupervised-models)
+    * [🧠 Deep Learning](#-deep-learning)
+      * [💠 CNN Models](#-cnn-models)
+      * [♻️ RNN Models](#-rnn-models)
+      * [🎨 Generative Models](#-generative-models)
+  * [📎 Appendix](#-appendix)
+    * [🔍 Open Data Sources](#-open-data-sources)
+  * [📝 License](#-license)
+  * [⭐ Support](#-support)
+<!-- TOC -->
 </details>
 
 ---
