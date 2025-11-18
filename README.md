@@ -108,8 +108,8 @@ This laboratory was established to **solidify understanding** of machine learnin
 ## 📐 Foundation of Mathematics
 Before diving into machine learning, it's essential to have a solid grasp of the underlying mathematical concepts. This section provides resources and notebooks covering key areas such as:
 - [Linear Algebra](documents/foundation-of-mathematics/Linear-algebra.md)
-- Calculus
-- Mathematical Optimization
+- [Calculus](documents/foundation-of-mathematics/Calculus.md)
+- [Mathematical Optimization](documents/foundation-of-mathematics/Mathematical-optimization.md)
 - Probability Theory
 - Information Theory
 
