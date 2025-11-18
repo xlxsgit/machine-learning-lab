@@ -155,6 +155,26 @@ Before diving into machine learning, it's essential to have a solid grasp of the
 
 ---
 
+<!-- appendix -->
+## 📎 Appendix
+### 🔍 Open Data Sources
+
+| Type | Package | API | Description |
+|-----|---------|-----|-----------|
+| Regression | `sklearn.datasets` | `make_regression` | Synthetic |
+|  |  | `load_diabetes` | Diabetes |
+| |  | `fetch_california_housing` | California Housing |
+| Classification | `sklearn.datasets` | `make_classification` | Synthetic |
+|  |  | `load_iris` | Iris |
+|  |  | `load_wine` | Wine Quality |
+|  |  | `load_digits` | Digits |
+|  |  | `load_breast_cancer` | Breast Cancer |
+|  | `torchvision.datasets` | `MNIST` | Handwritten Digits |
+|  |  | `CIFAR-10` | Object Recognition |
+| Clustering | `sklearn.datasets` | `make_blobs` | Synthetic | |
+|  |  | `make_circles` | Synthetic |
+---
+
 ## 📝 License
 
 This project is licensed under the [**MIT License**](./LICENSE).
