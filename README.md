@@ -60,7 +60,6 @@ A notebook-based machine learning laboratory for solidifying fundamentals, exper
 <!-- Table of Contents -->
 <details>
   <summary>📋 Expand Table of Contents</summary>
-
 <!-- TOC -->
 * [🔬 Machine Learning Lab](#-machine-learning-lab)
   * [📖 About the Project](#-about-the-project)
@@ -141,6 +140,12 @@ Before diving into machine learning, it's essential to have a solid grasp of the
 [![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/machine-learning/linear/Logistic-on-Wine.ipynb)
 
 #### 🌴 Tree Models
+
+![XGBoost](https://img.shields.io/badge/XGBoost-EF5B5B?style=flat-square&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-3498DB?style=flat-square&logoColor=white)
+![Iris](https://img.shields.io/badge/Iris-2ECC71?style=flat-square&logoColor=white)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/machine-learning/trees/Xgboost-on-Iris.ipynb)
+
 
 #### 🧩 Unsupervised Models
 
