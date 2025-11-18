@@ -145,6 +145,10 @@ Before diving into machine learning, it's essential to have a solid grasp of the
 ![Blobs](https://img.shields.io/badge/Blobs-2ECC71?style=flat-square&logoColor=white)
 [![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/machine-learning/unsupervised/KMeans-on-Synthetic.ipynb)
 
+![DBSCAN](https://img.shields.io/badge/DBSCAN-EF5B5B?style=flat-square&logoColor=white)
+![Clustering](https://img.shields.io/badge/Clustering-3498DB?style=flat-square&logoColor=white)
+![Circles](https://img.shields.io/badge/Circles-2ECC71?style=flat-square&logoColor=white)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/machine-learning/unsupervised/DBSCAN-on-Synthetic.ipynb)
 ---
 
 ### 🧠 Deep Learning
