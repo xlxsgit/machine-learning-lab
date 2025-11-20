@@ -111,7 +111,7 @@ Before diving into machine learning, it's essential to have a solid grasp of the
 - [Calculus](documents/foundation-of-mathematics/Calculus.md)
 - [Mathematical Optimization](documents/foundation-of-mathematics/Mathematical-optimization.md)
 - Probability Theory
-- Information Theory
+- [Information Theory](documents/foundation-of-mathematics/Information-theory.md)
 
 ## ✨ Notebook Gallery
 ### 📈 Statistics
