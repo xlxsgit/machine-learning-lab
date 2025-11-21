@@ -60,10 +60,13 @@ A notebook-based machine learning laboratory for solidifying fundamentals, exper
 <!-- Table of Contents -->
 <details>
   <summary>📋 Expand Table of Contents</summary>
+
 <!-- TOC -->
 * [🔬 Machine Learning Lab](#-machine-learning-lab)
   * [📖 About the Project](#-about-the-project)
-  * [📐 Foundation of Mathematics](#-foundation-of-mathematics)
+  * [🌀 Theory](#-theory)
+    * [📐 Foundation of Mathematics](#-foundation-of-mathematics)
+    * [✍️ Theoretical Derivation (CH)](#theoretical-derivation-ch)
   * [✨ Notebook Gallery](#-notebook-gallery)
     * [📈 Statistics](#-statistics)
       * [⚓ Hypothesis Testing](#-hypothesis-testing)
@@ -105,13 +108,20 @@ This laboratory was established to **solidify understanding** of machine learnin
 
 ---
 
-## 📐 Foundation of Mathematics
+## 🌀 Theory
+### 📐 Foundation of Mathematics
 Before diving into machine learning, it's essential to have a solid grasp of the underlying mathematical concepts. This section provides resources and notebooks covering key areas such as:
 - [Linear Algebra](documents/foundation-of-mathematics/Linear-algebra.md)
 - [Calculus](documents/foundation-of-mathematics/Calculus.md)
 - [Mathematical Optimization](documents/foundation-of-mathematics/Mathematical-optimization.md)
 - Probability Theory
 - [Information Theory](documents/foundation-of-mathematics/Information-theory.md)
+
+### ✍️ Theoretical Derivation (CH)
+- [Support Vector Machine (SVM)](documents/theoretical-derivation-ch/SVM.md)
+
+
+---
 
 ## ✨ Notebook Gallery
 ### 📈 Statistics

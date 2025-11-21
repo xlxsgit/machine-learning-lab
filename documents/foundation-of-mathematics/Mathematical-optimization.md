@@ -62,8 +62,3 @@ the KKT conditions are:
    $$\lambda_i^* \geq 0, \quad i = 1, \ldots, m$$
 4. Complementary slackness:
    $$\lambda_i^* g_i(x^*) = 0, \quad i = 1, \ldots, m$$
-5. Duality gap:
-   $$f(x^*) = d(\lambda^*, \mu^*)$$ where $d(\lambda, \mu)$ is the dual function.
-Strong duality holds if the primal and dual optimal values are equal:
-   $$f(x^*) = d(\lambda^*, \mu^*)$$
-Slater's condition: If there exists a feasible point that strictly satisfies all inequality constraints, then strong duality holds for convex problems.
