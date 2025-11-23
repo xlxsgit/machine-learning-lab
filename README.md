@@ -151,6 +151,11 @@ Before diving into machine learning, it's essential to have a solid grasp of the
 
 #### 🌴 Tree Models
 
+![Decision Tree](https://img.shields.io/badge/Decision_Tree-EF5B5B?style=flat-square&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-3498DB?style=flat-square&logoColor=white)
+![Iris](https://img.shields.io/badge/Iris-2ECC71?style=flat-square&logoColor=white)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/machine-learning/trees/DecisionTree-on-Iris.ipynb)
+
 ![XGBoost](https://img.shields.io/badge/XGBoost-EF5B5B?style=flat-square&logoColor=white)
 ![Classification](https://img.shields.io/badge/Classification-3498DB?style=flat-square&logoColor=white)
 ![Iris](https://img.shields.io/badge/Iris-2ECC71?style=flat-square&logoColor=white)
