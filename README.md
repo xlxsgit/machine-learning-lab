@@ -53,175 +53,111 @@
 
 </div>
 
-A notebook-based machine learning laboratory for solidifying fundamentals, experimenting with algorithms, and building reproducible portfolio examples through hands-on exploration.
+一个AI与机器学习资源库，将体系化地汇集数理基础、算法原理推导及面向实践的代码实现。
 
 </div>
 
 <!-- Table of Contents -->
 <details>
-  <summary>📋 Expand Table of Contents</summary>
+  <summary>📋 目录</summary>
 
 <!-- TOC -->
 * [🔬 Machine Learning Lab](#-machine-learning-lab)
-  * [📖 About the Project](#-about-the-project)
-  * [🌀 Theory](#-theory)
-    * [📐 Foundation of Mathematics](#-foundation-of-mathematics)
-    * [✍️ Theoretical Derivation (CH)](#theoretical-derivation-ch)
-  * [✨ Notebook Gallery](#-notebook-gallery)
-    * [📈 Statistics](#-statistics)
-      * [⚓ Hypothesis Testing](#-hypothesis-testing)
-      * [🎲 Sampling Methods](#-sampling-methods)
-    * [🤖 Machine Learning](#-machine-learning)
-      * [〰️ Linear Models](#-linear-models)
-      * [🌴 Tree Models](#-tree-models)
-      * [🧩 Unsupervised Models](#-unsupervised-models)
-    * [🧠 Deep Learning](#-deep-learning)
-      * [💠 CNN Models](#-cnn-models)
-      * [♻️ RNN Models](#-rnn-models)
-      * [🎨 Generative Models](#-generative-models)
-  * [📎 Appendix](#-appendix)
-    * [🔍 Open Data Sources](#-open-data-sources)
-  * [📝 License](#-license)
-  * [⭐ Support](#-support)
+  * [📖 安装指南](#-安装指南)
+  * [📐 数学基础](#-数学基础)
+  * [✨ 算法锦集](#-算法锦集)
+  * [📎 常用公开数据集](#-常用公开数据集)
+  * [📝 许可证](#-许可证)
 <!-- TOC -->
 </details>
 
 ---
 
-## 📖 About the Project
+## 📖 安装指南
+### 环境要求
+- 🐍 **Python** 3.8+
+- 📦 **pip** (Python 包管理器)
+- 🔧 **Git**
 
-<img src="https://img.shields.io/badge/For%20Whom%20%20%20-2C3E50?style=flat-square&logo=superuser&logoColor=white" /> &nbsp;
-<img src="https://img.shields.io/badge/-Students-FF6B6B?style=flat-square&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/-Researchers-4ECDC4?style=flat-square&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/-Enthusiasts-45B7D1?style=flat-square&logo=githubsponsors&logoColor=white" />
-<img src="https://img.shields.io/badge/-Data%20Scientists-96CEB4?style=flat-square&logo=datacamp&logoColor=white" />
-<img src="https://img.shields.io/badge/-ML%20Engineers-F7B267?style=flat-square&logo=pytorch&logoColor=white" />
-<br style="line-height: 0.5;">
-<img src="https://img.shields.io/badge/Key%20Features%20%20-2C3E50?style=flat-square&logo=starship&logoColor=white" /> &nbsp;
-<img src="https://img.shields.io/badge/-Practical-FF6B6B?style=flat-square&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/-Comprehensive-4ECDC4?style=flat-square&logo=stackoverflow&logoColor=white" />
-<img src="https://img.shields.io/badge/-Experimental-45B7D1?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/-Notebook%20Centric-96CEB4?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/-Visualization%20Rich-F7B267?style=flat-square&logo=chartdotjs&logoColor=white" />
+### 安装步骤
+1. **克隆仓库**
+```bash
+git clone https://github.com/xlxsgit/machine-learning-lab.git
+cd machine-learning-lab
+```
+2. **创建并激活虚拟环境(可选)**
 
-This laboratory was established to **solidify understanding** of machine learning fundamentals, **experiment fearlessly** with diverse algorithms, and **build a comprehensive portfolio** of reproducible examples. Designed as an interactive learning environment, it serves as both an educational resource and experimental workspace for the ML community.
+强烈建议使用虚拟环境以隔离依赖。
+```bash
+# 使用 venv 创建虚拟环境
+python -m venv ml_env
+# 使用 conda 创建虚拟环境
+conda create -n ml_env python=3.12
 
----
+# 在 Linux/macOS 上激活：
+source ml_env/bin/activate
+# 在 Windows 上激活：
+ml_env\Scripts\activate
+```
 
-## 🌀 Theory
-### 📐 Foundation of Mathematics
-Before diving into machine learning, it's essential to have a solid grasp of the underlying mathematical concepts. This section provides resources and notebooks covering key areas such as:
-- [Linear Algebra](documents/foundation-of-mathematics/Linear-algebra.md)
-- [Calculus](documents/foundation-of-mathematics/Calculus.md)
-- [Mathematical Optimization](documents/foundation-of-mathematics/Mathematical-optimization.md)
-- Probability Theory
-- [Information Theory](documents/foundation-of-mathematics/Information-theory.md)
-
-### ✍️ Theoretical Derivation (CH)
-- [Support Vector Machine (SVM)](documents/theoretical-derivation-ch/SVM.md)
-
-
----
-
-## ✨ Notebook Gallery
-### 📈 Statistics
-#### ⚓ Hypothesis Testing
-
-![ANOVA](https://img.shields.io/badge/ANOVA-E74C3C?style=flat-square&logoColor=white)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-3498DB?style=flat-square&logoColor=white)
-![Iris](https://img.shields.io/badge/Iris-2ECC71?style=flat-square&logoColor=white)
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/statistics/hypothesis-testing/ANOVA-on-Iris.ipynb)
-
-#### 🎲 Sampling Methods
-
-![Inverse Transform Sampling](https://img.shields.io/badge/Inverse_Transform_Sampling-E74C3C?style=flat-square&logoColor=white)
-![Sampling](https://img.shields.io/badge/Sampling-3498DB?style=flat-square&logoColor=white)
-![Exponential distribution](https://img.shields.io/badge/Exponential_distribution-2ECC71?style=flat-square&logoColor=white)
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/statistics/sampling/Inverse-Transform-Sampling.ipynb)
----
-
-### 🤖 Machine Learning
-
-#### 〰️ Linear Models
-
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-EF5B5B?style=flat-square&logoColor=white)
-![Classification](https://img.shields.io/badge/Classification-3498DB?style=flat-square&logoColor=white)
-![Wine](https://img.shields.io/badge/Wine-2ECC71?style=flat-square&logoColor=white)
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/machine-learning/linear/Logistic-on-Wine.ipynb)
-
-#### 🌴 Tree Models
-
-![Decision Tree](https://img.shields.io/badge/Decision_Tree-EF5B5B?style=flat-square&logoColor=white)
-![Classification](https://img.shields.io/badge/Classification-3498DB?style=flat-square&logoColor=white)
-![Iris](https://img.shields.io/badge/Iris-2ECC71?style=flat-square&logoColor=white)
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/machine-learning/trees/DecisionTree-on-Iris.ipynb)
-
-![XGBoost](https://img.shields.io/badge/XGBoost-EF5B5B?style=flat-square&logoColor=white)
-![Classification](https://img.shields.io/badge/Classification-3498DB?style=flat-square&logoColor=white)
-![Iris](https://img.shields.io/badge/Iris-2ECC71?style=flat-square&logoColor=white)
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/machine-learning/trees/Xgboost-on-Iris.ipynb)
-
-
-#### 🧩 Unsupervised Models
-
-![KMeans](https://img.shields.io/badge/KMeans-EF5B5B?style=flat-square&logoColor=white)
-![Clustering](https://img.shields.io/badge/Clustering-3498DB?style=flat-square&logoColor=white)
-![Blobs](https://img.shields.io/badge/Blobs-2ECC71?style=flat-square&logoColor=white)
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/machine-learning/unsupervised/KMeans-on-Synthetic.ipynb)
-
-![DBSCAN](https://img.shields.io/badge/DBSCAN-EF5B5B?style=flat-square&logoColor=white)
-![Clustering](https://img.shields.io/badge/Clustering-3498DB?style=flat-square&logoColor=white)
-![Circles](https://img.shields.io/badge/Circles-2ECC71?style=flat-square&logoColor=white)
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/machine-learning/unsupervised/DBSCAN-on-Synthetic.ipynb)
----
-
-### 🧠 Deep Learning
-
-#### 💠 CNN Models
-![CNN](https://img.shields.io/badge/CNN-EF5B5B?style=flat-square&logoColor=white)
-![Image Classification](https://img.shields.io/badge/Image_Classification-3498DB?style=flat-square&logoColor=white)
-![MNIST](https://img.shields.io/badge/MNIST-2ECC71?style=flat-square&logoColor=white)
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-9B59B6?style=flat-square&logo=jupyter&logoColor=white)](notebooks/deep-learning/cnn/CNN-on-MNIST.ipynb)
-
-
-#### ♻️ RNN Models
-
-#### 🎨 Generative Models
+3. **安装依赖**
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
-<!-- appendix -->
-## 📎 Appendix
-### 🔍 Open Data Sources
+## 📐 数学基础
+在开始机器学习之旅前，牢固掌握其背后的数学原理是至关重要的。本部分旨在系统性地整理和回顾机器学习领域所依赖的核心数学概念与工具，为后续的算法理解和实践打下坚实的理论根基。
 
-| Type | Package | API | Description |
-|-----|---------|-----|-----------|
-| Regression | `sklearn.datasets` | `make_regression` | Synthetic |
-|  |  | `load_diabetes` | Diabetes |
-| |  | `fetch_california_housing` | California Housing |
-| Classification | `sklearn.datasets` | `make_classification` | Synthetic |
-|  |  | `load_iris` | Iris |
-|  |  | `load_wine` | Wine Quality |
-|  |  | `load_digits` | Digits |
-|  |  | `load_breast_cancer` | Breast Cancer |
-|  | `torchvision.datasets` | `MNIST` | Handwritten Digits |
-|  |  | `CIFAR-10` | Object Recognition |
-| Clustering | `sklearn.datasets` | `make_blobs` | Synthetic | |
-|  |  | `make_circles` | Synthetic |
----
-
-## 📝 License
-
-This project is licensed under the [**MIT License**](./LICENSE).
-You are free to use, modify, and distribute it for educational or research purposes.
+- [线性代数](documents/foundation-of-mathematics/Linear-algebra.md)
+- [微积分](documents/foundation-of-mathematics/Calculus.md)
+- [数学优化](documents/foundation-of-mathematics/Mathematical-optimization.md)
+- 概率论
+- [信息论](documents/foundation-of-mathematics/Information-theory.md)
 
 ---
 
-## ⭐ Support
-If you find this project useful for your learning or research, please consider:
+## ✨ 算法锦集
+本部分是项目的核心，致力于系统地整理和实现各类经典的机器学习算法。从基础的线性模型到复杂的深度学习网络，我们将通过理论推导与代码实践相结合的方式，深入探索每种算法的原理、优缺点及其适用场景。
 
-- Giving a Star ⭐ on GitHub to show your support
-- Sharing with others who might benefit
-- Contributing new algorithms and implementations
+| 类别 | 分支 | 算法/方法 | Notebook | 理论 |
+|------|------|-----------|----------|-----|
+| 📈 统计 | ⚓ 假设检验 | 方差分析 | [ANOVA-on-Iris](notebooks/statistics/hypothesis-testing/ANOVA-on-Iris.ipynb) |  |
+|      | 🎲 抽样方法 | 逆变换抽样 | [Inverse-Transform-Sampling](notebooks/statistics/sampling/Inverse-Transform-Sampling.ipynb) |  |
+| 🤖 机器学习 | 〰️ 线性模型 | 逻辑回归 | [Logistic-on-Wine](notebooks/machine-learning/linear/Logistic-on-Wine.ipynb) |  |
+|      |      | 支持向量机 |  | [Support-Vector-Machine](documents/theoretical-derivation/Support-Vector-Machine.md) |
+|      | 🌴 树模型 | 决策树 | [DecisionTree-on-Iris](notebooks/machine-learning/trees/DecisionTree-on-Iris.ipynb) |  |
+|      |      | XGBoost | [XGBoost-on-Iris](notebooks/machine-learning/trees/Xgboost-on-Iris.ipynb) |  |
+|      | 🧩 无监督方法 | K均值 | [KMeans-on-Synthetic](notebooks/machine-learning/unsupervised/KMeans-on-Synthetic.ipynb) |  |
+|      |      | DBSCAN | [DBSCAN-on-Synthetic](notebooks/machine-learning/unsupervised/DBSCAN-on-Synthetic.ipynb) |  |
+| 🧠 深度学习 | 💠 卷积神经网络 | CNN | [CNN-on-MNIST](notebooks/deep-learning/cnn/CNN-on-MNIST.ipynb) | |  |
+|      | ♻️ 循环神经网络 |  |  |  |
+|      | 🎨 生成模型 |  |  |  |
+
+---
+
+## 📎 常用公开数据集
+高质量的数据是机器学习研究与实践的基石。本部分汇集了在学术界和工业界广泛使用的公开数据集，涵盖了回归、分类、聚类等多种任务类型，为模型的训练、验证和测试提供了标准化的基准。
+
+| 类型 | 库                      | API                        | 描述                 |
+|----|------------------------|----------------------------|--------------------|
+| 回归 | `sklearn.datasets`     | `make_regression`          | 模拟数据               |
+|    |                        | `load_diabetes`            | Diabetes           |
+|    |                        | `fetch_california_housing` | California Housing |
+| 分类 | `sklearn.datasets`     | `make_classification`      | 模拟数据          |
+|    |                        | `load_iris`                | Iris               |
+|    |                        | `load_wine`                | Wine Quality       |
+|    |                        | `load_digits`              | Digits             |
+|    |                        | `load_breast_cancer`       | Breast Cancer      |
+|    | `torchvision.datasets` | `MNIST`                    | Handwritten Digits |
+|    |                        | `CIFAR-10`                 | Object Recognition |
+| 聚类 | `sklearn.datasets`     | `make_blobs`               | 模拟数据          | |
+|    |                        | `make_circles`             | 模拟数据          |
+
+---
+
+## 📝 许可证
+本项目采用 [**MIT**](./LICENSE) 许可证。允许为教育或研究目的而自由使用、修改和分发。
 
 ---
