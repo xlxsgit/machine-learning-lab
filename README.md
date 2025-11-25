@@ -122,8 +122,9 @@ pip install -r requirements.txt
 本部分是项目的核心，致力于系统地整理和实现各类经典的机器学习算法。从基础的线性模型到复杂的深度学习网络，我们将通过理论推导与代码实践相结合的方式，深入探索每种算法的原理、优缺点及其适用场景。
 
 | 类别 | 分支 | 算法/方法 | Notebook | 理论                                                                                   |
-|------|------|-----------|----------|--------------------------------------------------------------------------------------|
+|------|------|------|----------|--------------------------------------------------------------------------------------|
 | 📈 统计 | ⚓ 假设检验 | 方差分析 | [ANOVA-on-Iris](notebooks/statistics/hypothesis-testing/ANOVA-on-Iris.ipynb) | [Analysis-of-Variance](documents/theoretical-derivation/Analysis-of-Variance.md) |
+| |      | 卡方检验 | [Chi2Test-on-Titanic](notebooks/statistics/hypothesis-testing/Chi2Test-on-Titanic.ipynb) | [Chi-Squared-Test](documents/theoretical-derivation/Chi-Square-Test.md) |
 |      | 🎲 抽样方法 | 逆变换抽样 | [Inverse-Transform-Sampling](notebooks/statistics/sampling/Inverse-Transform-Sampling.ipynb) |                                                                                      |
 | 🤖 机器学习 | 〰️ 线性模型 | 逻辑回归 | [Logistic-on-Wine](notebooks/machine-learning/linear/Logistic-on-Wine.ipynb) |                                                                                      |
 |      |      | 支持向量机 |  | [Support-Vector-Machine](documents/theoretical-derivation/Support-Vector-Machine.md) |
